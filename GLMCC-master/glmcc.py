@@ -1,4 +1,4 @@
-#Author: Junichi Haruna
+ #Author: Junichi Haruna
 # coding: utf-8
 """
 Functions for fitting a GLM to the Cross correlation.
